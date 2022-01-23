@@ -1,11 +1,11 @@
 # Ideapad-Y700-Opencore
 This is my opencore configuration for the Lenovo Ideapad Y700-15ISK.  
 
-Please Note: I have moved onto another laptop, so this repo is mainly for archival purposes and will updated sparingly/never updated.  
+<b>Please Note: I have moved onto another laptop, so this repo is mainly for archival purposes and will updated sparingly/never updated.</b>  
 
 I have only tested this configuration up to Big Sur 11.2.1. Nearly everything is working.  
 
-What is working:  
+<b>What is working:</b>  
 
 Trackpad w/ gesture support. 
 
@@ -23,7 +23,7 @@ Camera
 
 I have not tested the mic. 
 
-What is not working:  
+<b>What is not working:</b>  
 
 Nvidia graphics - will never be supported, and is disabled in this config. 
 
